@@ -1,2 +1,1 @@
-HW7
-===
+Total Hours Spent: 5
